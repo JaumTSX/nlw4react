@@ -12,10 +12,10 @@ Install dependencies:
 To start, run this commands:
 `yarn start` or `npm start`
 
-> Version history:
+## Version history:
 > 1.0
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-> Made with 💜 by @jaumtsx.
+### Made with 💜 by @jaumtsx.
