@@ -1,4 +1,4 @@
-This project was created by @Rocketseat.
+This project was created by [Rocketseat](https://twitter.com/Rocketseat).
 
 # Move.it
 
