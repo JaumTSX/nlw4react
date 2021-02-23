@@ -14,6 +14,7 @@ To start, run this commands:
 
 ## Version history:
 > 1.0 (Started development)
+> 
 > 1.1 (Finished countdown function)
 
 # License
