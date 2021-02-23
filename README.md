@@ -13,7 +13,8 @@ To start, run this commands:
 `yarn start` or `npm start`
 
 ## Version history:
-> 1.0
+> 1.0 (Started development)
+> 1.1 (Finished countdown function)
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
