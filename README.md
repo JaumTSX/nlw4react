@@ -16,6 +16,8 @@ This project was created by [Rocketseat](https://twitter.com/Rocketseat).
 - v1.0 (started development)
 - v1.1 (finished countdown function)
 - v1.2 (started optimizing)
+- v1.3 (finished optimizing)
+- v1.4 (FUTURE VERSION: twitter integration and dark mode)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
