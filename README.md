@@ -1,7 +1,7 @@
 This project was created by [Rocketseat](https://twitter.com/Rocketseat).
 
 # Move.it
-> This application helps people to exercise every 30 minutes, after activities in front of the computer.
+> This application helps people to exercise every 30 minutes, after activities in front of the computer, or something else.
 
 ## Installation
 > Install dependencies:
